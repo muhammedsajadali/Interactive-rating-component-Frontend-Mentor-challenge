@@ -1,5 +1,5 @@
 
-![Interactive Rating Component](Here paste link of project screenshot)
+![Interactive Rating Component](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxx2bhmtmeelt0a98zos.jpg)
 
 
 
@@ -7,11 +7,11 @@
 
 <div align="center">
 
-[Live](paste the live link of the solution)
-| [Solution](paste the link of solution)
-| [Challenge](paste the link of challenge)
+[Live](https://muhammedsajadali.github.io/Interactive-rating-component-Frontend-Mentor-challenge/)
+| [Solution]()
+| [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
-This is a solution to the [Interactive Rating Component challenge on Frontend Mentor](the link of challenge)
+Solution to the [Interactive Rating Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 </div>
 
