@@ -8,7 +8,7 @@
 <div align="center">
 
 [Live](https://muhammedsajadali.github.io/Interactive-rating-component-Frontend-Mentor-challenge/)
-| [Solution]()
+| [Solution](https://www.frontendmentor.io/solutions/flexbox-interactive-rating-component-fOdRd4_nLz)
 | [Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 Solution to the [Interactive Rating Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
